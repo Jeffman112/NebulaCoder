@@ -12,7 +12,7 @@ NebulaCoder is a Visual Studio Code extension that assists you in generating cod
 
 2. **Usage**: Open a Python code file in Visual Studio Code and start writing comments. After your comment, make a new line, then press `Ctrl + P`, then `>` then type `Generate Code`
 
-![calculator video](images/calc.mp4)
+![images/calc.mp4](https://github.com/Jeffman112/NebulaCoder/blob/master/images/calc.mp4)
 ![edit code](images/riff.mp4)
 ---
 
