@@ -1,7 +1,7 @@
 # NebulaCoder - A Visual Studio Code Extension
 
 NebulaCoder is a Visual Studio Code extension that assists you in generating code from comments in your Python code files. It leverages the power of machine learning to transform your comments into actual code snippets, saving you time and effort.
-
+It can be found [here](https://marketplace.visualstudio.com/items?itemName=Jeffman112.nebulacoder)
 ## Features
 
 - **Generate Code from Comments:** With NebulaCoder, you can turn your comments into working code. Simply write a comment, and NebulaCoder will provide you with code suggestions based on your comment's context.
