@@ -23,3 +23,7 @@ https://github.com/Jeffman112/NebulaCoder/assets/123284838/e1c281c0-9fff-469d-9d
 ---
 
 Happy coding with NebulaCoder!
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Jeffman112/NebulaCoder&type=Date)](https://star-history.com/#Jeffman112/NebulaCoder&Date)
