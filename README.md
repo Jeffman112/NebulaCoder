@@ -10,7 +10,9 @@ It can be found [here](https://marketplace.visualstudio.com/items?itemName=Jeffm
 
 1. **Installation**: Install the NebulaCoder extension from the Visual Studio Code marketplace.
 
-2. **Usage**: Open a Python code file in Visual Studio Code and start writing comments. After your comment, make a new line, then press `Ctrl + P`, then `>` then type `Generate Code`
+2. **Dependencies**: Make sure you do `pip install ctransformers` or for CUDA support (recommended) `pip install ctransformers[cuda]`
+
+3. **Usage**: Open a Python code file in Visual Studio Code and start writing comments. After your comment, make a new line, then press `Ctrl + P`, then `>` then type `Generate Code`
 
 
 
